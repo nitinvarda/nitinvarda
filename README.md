@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages and Tools
+![image](https://github.com/nitinvarda/nitinvarda/assets/56512897/c3da7548-fbd5-4d65-b5b3-54a4529401f5)
+![image](https://github.com/nitinvarda/nitinvarda/assets/56512897/95f05d6e-2535-421c-aff5-e1a9fd87cad8)
+![image](https://github.com/nitinvarda/nitinvarda/assets/56512897/80123cba-0b91-4116-bb89-7825e8eb2537)
+
+
+
+
